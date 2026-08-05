@@ -29,14 +29,11 @@
 
 ```yaml
 ◈ MISSION LOG ─────────────────────────────────────────────────────────────
-  position   : Computational Biologist — Bio-Intelligence Systems
-  affiliation: Armortrix Technologies  ·  araCreate Group
-  based_in   : Batticaloa, Sri Lanka        # working across three time zones
-  training   : BSc (Hons) Biotechnology, SLIIT
-               PGDP Bioinformatics, Genomics & Data Science
-  asking     : Which molecular signatures are shared across diseases
-               that look nothing alike — and what happens to those
-               same pathways once you leave Earth?
+  Position   : Investigator / Interdisciplinary Researcher
+  Affiliation: araCreate Group
+  Based_in   : Batticaloa, Sri Lanka        # working across three time zones
+  Education  : BSc (Hons) Biotechnology, Sri Lanka Institute of Information Technology (SLIIT), Colombo, Sri Lanka 
+               PGDP Bioinformatics, Genomics & Data Science, Bversity, Chennai, India
   open_to    : research collaborations · omics reanalysis · space biology
 ◈ ─────────────────────────────────────────────────────────────────────────
 ```
