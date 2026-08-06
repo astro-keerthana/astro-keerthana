@@ -31,7 +31,7 @@
 ◈ MISSION LOG ─────────────────────────────────────────────────────────────
   Position   : Investigator / Interdisciplinary Researcher
   Affiliation: araCreate Group
-  Based_in   : Batticaloa, Sri Lanka        # working across three time zones
+  Based_in   : Sri Lanka  .  Germany  .  India
   Education  : BSc (Hons) Biotechnology, Sri Lanka Institute of Information Technology (SLIIT), Colombo, Sri Lanka 
                PGDP Bioinformatics, Genomics & Data Science, Bversity, Chennai, India
   Open_to    : Research Collaborations · Omics Analysis · Space Biology . Planetary Science
