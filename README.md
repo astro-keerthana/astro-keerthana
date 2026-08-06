@@ -83,7 +83,7 @@ Time-domain astrophysics, exoplanet observation and life-sciences datasets — c
 
 <!-- ═══════════════════ PUBLICATIONS ═══════════════════ -->
 
-## 📄 Published Work
+##  Published Work
 
 | Year | Work | Venue |
 |:----:|:-----|:------|
@@ -106,7 +106,7 @@ Time-domain astrophysics, exoplanet observation and life-sciences datasets — c
 
 <!-- ═══════════════════ PROJECTS ═══════════════════ -->
 
-## 🛰 Selected Projects
+##  Selected Projects
 
 <table>
 <tr>
@@ -123,7 +123,7 @@ Time-domain astrophysics, exoplanet observation and life-sciences datasets — c
 
 <!-- ═══════════════════ TOOLKIT ═══════════════════ -->
 
-## 🔬 Toolkit
+##  Toolkit
 
 <div align="center">
 
@@ -143,29 +143,26 @@ Time-domain astrophysics, exoplanet observation and life-sciences datasets — c
 
 <!-- ═══════════════════ HONOURS ═══════════════════ -->
 
-## 🏅 Honours &amp; Roles
+##  Honours &amp; Roles
 
 <div align="center">
 
 | | |
 |:--|:--|
-| 🛰 **Global Nominee** | NASA Space Apps Challenge, 2024 |
-| 🧫 **Oral presentation** | Mycological Society of America, 2025 · EANA 2026 (Space Factor) |
-| 🧠 **Competitive review** | All-Russian Pitch Session, *Young Medicine* — V.P. Filatov Foundation, 2026 |
-| 📝 **Abstract Reviewer** | American Society for Gravitational and Space Research |
-| 🌏 **Ambassador of Asia** | Women in Data Science |
-| 🔭 **Member** | Space Generation Advisory Council · NASA Open Science (AWG) · CitSci Foundation |
+|  **Global Nominee** | NASA Space Apps Challenge, 2024 |
+|  **Oral presentation** | Mycological Society of America, 2025 · EANA 2026 (Space Factor) |
+|  **Competitive review** | All-Russian Pitch Session, *Young Medicine* — V.P. Filatov Foundation, 2026 |
+|  **Abstract Reviewer** | American Society for Gravitational and Space Research |
+|  **Ambassador of Asia** | Women in Data Science |
+|  **Member** | Space Generation Advisory Council · NASA Open Science (AWG) · CitSci Foundation |
 
 </div>
 
 <!-- ═══════════════════ STATS ═══════════════════ -->
 
-## 📊 On GitHub
+##  On GitHub
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=astro-keerthana&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7B2FF7&text_color=C9D1D9&include_all_commits=true&cache_seconds=1800" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astro-keerthana&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=8&cache_seconds=1800" alt="Top languages" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=astro-keerthana&bg_color=0D1117&color=22D3EE&line=7B2FF7&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
 
