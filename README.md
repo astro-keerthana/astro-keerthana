@@ -20,7 +20,7 @@
 <a href="https://orcid.org/0000-0002-3979-7489"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
 <a href="https://www.linkedin.com/in/keerthana-g-1ba8b3207/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:keerthana@aracreate.group"><img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=maildotru&logoColor=120024" alt="Email" /></a>
-<a href="https://raw.githubusercontent.com/astro-keerthana/astro-keerthana/main/pitch-deck.pdf"
+<a href="https://drive.google.com/file/d/1BkltXJb3FXQWBT9DWeonwmctjMfoSstN/view?usp=sharing"
    target="_blank"
    rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/✦%20VIEW%20PITCH%20DECK-7B2FF7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=120024"
