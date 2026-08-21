@@ -20,7 +20,9 @@
 <a href="https://orcid.org/0000-0002-3979-7489"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
 <a href="https://www.linkedin.com/in/keerthana-g-1ba8b3207/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:keerthana@aracreate.group"><img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=maildotru&logoColor=120024" alt="Email" /></a>
-<a href="https://raw.githubusercontent.com/astro-keerthana/astro-keerthana/main/pitch-deck.pdf"><img src="https://img.shields.io/badge/Pitch%20Deck-7B2FF7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Pitch Deck" /></a>
+<a href="https://raw.githubusercontent.com/astro-keerthana/astro-keerthana/main/pitch-deck.pdf" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Pitch%20Deck-7B2FF7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Pitch Deck" />
+</a>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=astro-keerthana&color=7B2FF7&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 
